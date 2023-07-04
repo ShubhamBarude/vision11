@@ -18,7 +18,4 @@ public class MaxThreeNumber
         }
     }
 }
-output:
-enetr a num1 is max:
-
-Process finished with exit code 0
+shubhy
